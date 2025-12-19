@@ -1,2 +1,0 @@
-# seattletimes
-expired
